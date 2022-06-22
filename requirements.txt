@@ -8,7 +8,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.14.1
 MarkupSafe==1.1.1
-numpy==1.18.4
+numpy==1.22.0
 pycodestyle==2.5.0
 requests==2.23.0
 scikit-learn==0.22.2.post1
